@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="244" height="272" fill="none" viewBox="0 0 244 272">
+  <rect width="126.987" height="136.14" x=".273" y="23.662" fill="#fff" rx="13.728" transform="rotate(-10.555 .273 23.662)"/>
+  <rect width="14.872" height="13.728" x="16.207" y="40.477" fill="#7C827D" fill-opacity=".21" rx="6.864" transform="rotate(-10.555 16.207 40.477)"/>
+  <rect width="65.21" height="8.008" x="40.35" y="38.887" fill="#7C827D" fill-opacity=".21" rx="4.004" transform="rotate(-10.555 40.35 38.887)"/>
+  <rect width="14.872" height="13.728" x="21.027" y="66.344" fill="#7C827D" fill-opacity=".21" rx="6.864" transform="rotate(-10.555 21.027 66.344)"/>
+  <rect width="65.21" height="8.008" x="45.169" y="64.755" fill="#7C827D" fill-opacity=".21" rx="4.004" transform="rotate(-10.555 45.17 64.755)"/>
+  <rect width="14.872" height="13.728" x="25.847" y="92.211" fill="#7C827D" fill-opacity=".21" rx="6.864" transform="rotate(-10.555 25.847 92.211)"/>
+  <rect width="65.21" height="8.008" x="49.989" y="90.622" fill="#7C827D" fill-opacity=".21" rx="4.004" transform="rotate(-10.555 49.99 90.622)"/>
+  <rect width="14.872" height="13.728" x="30.667" y="118.079" fill="#7C827D" fill-opacity=".21" rx="6.864" transform="rotate(-10.555 30.667 118.079)"/>
+  <rect width="65.21" height="8.008" x="54.809" y="116.49" fill="#7C827D" fill-opacity=".21" rx="4.004" transform="rotate(-10.555 54.81 116.49)"/>
+  <path fill="url(#a)" d="M106.623 56.641h137.284v215.078H106.623z"/>
+  <defs>
+    <pattern id="a" width="1" height="1" patternContentUnits="objectBoundingBox">
+      <use xlink:href="#b" transform="scale(.00278 .00177)"/>
+    </pattern>
+  </defs>
+</svg>
